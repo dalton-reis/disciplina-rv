@@ -1,2 +1,2 @@
 # disciplina-rv
-LIVRE - Material da disciplina de Desenvolvimento para Dispositivos Móveis
+LIVRE - Material da disciplina de Realidade Virtual
