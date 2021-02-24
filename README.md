@@ -1,2 +1,2 @@
-# disciplina-rv
-LIVRE - Material da disciplina de Realidade Virtual
+# disciplina-rv_privado
+Material da disciplina de Realidade Virtual
